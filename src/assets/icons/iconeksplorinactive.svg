@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.1118mm" height="7.1118mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 711 711"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#8B8B8C;stroke-width:7.62}
+    .str0 {stroke:white;stroke-width:76.66;stroke-linecap:round;stroke-linejoin:round}
+    .fil1 {fill:#FEFEFE}
+    .fil2 {fill:#8B8B8C}
+    .fil0 {fill:#8B8B8C}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Layer_2" data-name="Layer 2">
+   <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Home_scereen_2" data-name="Home scereen 2">
+     <g id="Navi_button" data-name="Navi button">
+      <g id="Group_85" data-name="Group 85">
+       <g id="Vector_Smart_Object-3" data-name="Vector Smart Object-3">
+        <g id="Group_5" data-name="Group 5">
+         <g id="Group_4" data-name="Group 4">
+          <path id="Path_2" class="fil0" d="M706 356c0,-194 -157,-351 -350,-351 -194,0 -351,157 -351,351 0,194 157,351 351,351l0 0c193,-1 350,-157 350,-351l0 0z" data-name="Path 2"/>
+         </g>
+         <path id="Path_3" class="fil0 str0" d="M464 356c-1,-59 -49,-108 -108,-108 -60,0 -108,49 -108,108 0,59 48,108 108,108 59,0 107,-49 108,-108z" data-name="Path 3"/>
+         <path id="Path_4" class="fil0 str0" d="M584 356c0,0 0,0 0,-1 0,-126 -102,-229 -229,-229 -126,0 -229,103 -229,229 0,127 103,229 229,229 0,0 1,0 1,0 126,0 228,-102 228,-228l0 0z" data-name="Path 4"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <circle class="fil1 str1" cx="356" cy="356" r="146"/>
+  <circle class="fil2 str1" cx="356" cy="356" r="69"/>
+ </g>
+</svg>
